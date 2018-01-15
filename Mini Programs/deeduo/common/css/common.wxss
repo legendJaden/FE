@@ -1,0 +1,76 @@
+/* 颜色 */
+.color-green {
+	color: #09bb07;
+}
+
+.color-black {
+	color: #353535;
+}
+
+.color-grey {
+	color: #888888;
+}
+
+.color-light-grey {
+	color: #b2b2b2;
+}
+
+.color-blue {
+	color: #576b95;
+}
+
+.color-red {
+	color: #e64340;
+}
+
+.success {
+	color: #fff;
+	background: #09bb07;
+}
+
+.error {
+	color: #fff;
+	background: #e64340;
+}
+
+/* 布局 */
+.flex {
+	display: flex;
+}
+
+.wrapper-flex-center {
+	justify-content: center;
+}
+
+.wrapper-flex-left {
+	justify-content: flex-start;
+}
+
+.wrapper-flex-right {
+	justify-content: flex-end;
+}
+
+.wrapper-flex-around {
+	justify-content: space-around;
+}
+
+.wrapper-flex-between {
+	justify-content: space-between;
+}
+
+/* 按压 与 禁用 */
+.press {
+	opacity: 0.6;
+}
+
+.text-press {
+	opacity: 20%;
+}
+
+.disable {
+	opacity: 0.3;
+}
+
+.text-disable {
+	opacity: 10%;
+}
